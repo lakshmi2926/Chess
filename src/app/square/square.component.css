@@ -1,0 +1,18 @@
+.square {
+  height: 108px;
+  width: 100%;
+  border:1px solid white;
+
+}
+
+.white{
+  background-color: #7f8a82;
+}
+
+.black{
+  background-color:#303631;
+}
+
+.count{
+color:black;
+}
